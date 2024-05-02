@@ -2,6 +2,9 @@
 
 ![Image](https://github.com/tanvi-sheth/Unveiling-Flight-Disruption-Insights/assets/144172508/c5278a1e-408f-467d-8f53-b72969434ef9)
 
+## Collaborators
+Jinke Han, Sneha Sunil Ekka, Tanvi Sheth, Mingze Wu, Yu Chun Su
+
 ## Executive Summary
 Analyzing flight data offers invaluable insights into the operational dynamics of the aviation industry, providing stakeholders with crucial information to optimize resources, enhance efficiency, and improve customer experience. By exploring delay and cancellation patterns by airline, airport locations and over time and seasonality, we can gain a macro-level understanding of the challenges and opportunities within the aviation ecosystem.
 
